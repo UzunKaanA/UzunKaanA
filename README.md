@@ -4,7 +4,7 @@ Hello, and thanks for visiting my GitHub profile. 😄
 
 ## About Me
 
-🌱 I'm currently learning Game Programming, Machine Learning, and Cyber Security.
+🌱 I'm currently learning Game Programming, Mobile Development, and Cyber Security.
 
 💬 Feel free to reach out and connect with me.
 
