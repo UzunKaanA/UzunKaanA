@@ -2,7 +2,10 @@
 
 Hello, and thanks for visiting my GitHub profile. 😄
 
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/kaanuzun.png)
+
 ## About Me
+
 
 🌱 I'm currently learning Game Programming, Mobile Development, and Cyber Security.
 
