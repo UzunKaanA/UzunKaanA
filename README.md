@@ -13,7 +13,7 @@ Hello, and thanks for visiting my GitHub profile. 😄
 
 ## My Projects
 
-I have developed a "Rent A Car Software" that can fulfill standard functions.
+You can reach out to my projects via my respository, have fun searching it.🙂
 
 ## Get in Touch
 
