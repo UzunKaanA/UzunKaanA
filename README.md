@@ -4,9 +4,6 @@ Hello, and thanks for visiting my GitHub profile. 😄
 
 ## About Me
 
-
-🌱 I'm currently learning Mobile Development for iOS. 
-
 💬 Feel free to reach out and connect with me.
 
 ## My Projects
