@@ -2,6 +2,8 @@
 
 Hello, and thanks for visiting my GitHub profile. 😄
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/kaanuzun.png" alt="Your Image Badge" />
+
 ## About Me
 
 💬 Feel free to reach out and connect with me.
